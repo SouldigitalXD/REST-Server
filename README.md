@@ -1,4 +1,4 @@
-# Enerbom
+# REST-SERVER
 
 recuerda que debes ejecutar ```npm install``` para reconstruir los modules de Node.
 
